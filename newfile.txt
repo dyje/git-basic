@@ -6,4 +6,10 @@ Hello world~
 
 
 ## this updated is from GIThub repository
+
+
+## This section if for the answers of what is the difference between Add, commit and push?
+### The action 'ADD' is like a staging branch wherein we can select which changes should only be included for that specific commit/push
+### The action 'COMMIT' is somehow same like the push but is it only in local machine, meaning once it is commited it can only be seen by the local machine user and not pushed in public
+### the action PUSH is when all changes are finalized and could be shared to those who have access to the repository
 -DYJE
